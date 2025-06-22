@@ -1,0 +1,54 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Security Infrastructure Research</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #005f73;
+      color: white;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    section {
+      margin-top: 20px;
+    }
+    a {
+      color: #0a9396;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Security Infrastructure Research</h1>
+    <p>By Evana Moon</p>
+  </header>
+
+  <section>
+    <h2>About This Project</h2>
+    <p>This research focuses on evaluating and strengthening modern digital security infrastructure. It covers areas like encryption protocols, authentication mechanisms, and threat modeling.</p>
+  </section>
+
+  <section>
+    <h2>Key Papers & Resources</h2>
+    <ul>
+      <li><a href="https://example.com/paper1" target="_blank">Paper 1: Overview of Modern Security Protocols</a></li>
+      <li><a href="https://example.com/paper2" target="_blank">Paper 2: Threat Detection in Distributed Systems</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: your.email@domain.com</p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">@yourusername</a></p>
+  </section>
+</body>
+</html>
