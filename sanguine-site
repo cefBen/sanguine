@@ -10,7 +10,7 @@
       font-family: Arial, sans-serif;
       margin: 40px;
       background-color: #F4F1EC;
-      color: #333;
+      color: linear-gradient(to bottom, #2C5D98, #3E7E3E);
     }
     header {
       background-color: #F4F1EC;
